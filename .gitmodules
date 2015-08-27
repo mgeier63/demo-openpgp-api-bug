@@ -1,0 +1,6 @@
+[submodule "app/libs/openpgp-api-lib-2"]
+	path = app/libs/openpgp-api-lib-2
+	url = https://github.com/mgeier63/openpgp-api.git
+[submodule "app/libs/openpgp-api-lib"]
+	path = app/libs/openpgp-api-lib
+	url = https://github.com/open-keychain/openpgp-api.git
