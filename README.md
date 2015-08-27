@@ -17,7 +17,7 @@
 4. you should see "Data Truncated on N of 100 invocations"
 
 ### Verify the fix
-1. Build openkeychain after having merged [this pull request](https://github.com/open-keychain/openpgp-api/pull/3)
+1. Build openkeychain after having merged [this pull request](https://github.com/open-keychain/openpgp-api/pull/3) and [this pull request](https://github.com/open-keychain/open-keychain/pull/1505)
 2. Nowinstall the _fixed_ app with ``adb install -r OpenPgpApiLibDemobuild/app/build/outputs/apk/app-fixed-debug.apk``
 3. run the app, selecte a key and then tap "Test..."
 4. no data truncation any more, relax!
