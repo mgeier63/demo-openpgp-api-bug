@@ -6,8 +6,8 @@
 1. Clone the project from GitHub
 2. Get all external submodules with ``git submodule update --init --recursive``
 3. Execute ``./gradlew build``
-4. This builds TWO apks, one ("orig") with the original, unpatched OpenPGPApi
-5. and one ("fixed") using my fixed OpenPGPApi
+4. This builds TWO apks, one _"orig"_ with the original, unpatched OpenPGPApi
+5. and one _"fixed"_ using  [my patched OpenPGPApi](https://github.com/mgeier63/openpgp-api)
 
 ### Demonstrate the bug
 
