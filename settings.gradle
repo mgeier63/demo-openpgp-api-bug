@@ -1,0 +1,5 @@
+include ':app'
+include ':openpgp-api'
+project(':openpgp-api').projectDir = new File('app/libs/openpgp-api-lib/openpgp-api');
+include ':openpgp-api-2'
+project(':openpgp-api-2').projectDir = new File('app/libs/openpgp-api-lib-2/openpgp-api');

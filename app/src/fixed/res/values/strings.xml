@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FIXED-OpenPgpApiLibDemo</string>
+    <string name="info">using FIXED OpenPgpApi 2</string>
+    <string name="buttonlabel">Test OpenPgpApi 2</string>
+</resources>

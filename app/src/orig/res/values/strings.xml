@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ORIG-OpenPgpApiLibDemo</string>
+    <string name="info">using ORIGINAL OpenPgpApi</string>
+    <string name="buttonlabel">Test OpenPgpApi</string>
+</resources>
